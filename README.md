@@ -1,7 +1,7 @@
 Android Auto Scroll Loop View Pager
 =======================
 
-Combine from follow libraray:
+Combine from follow libraray to  [AutoScrollLoopViewPager.jar](https://github.com/neutra/AutoScrollLoopViewPager/raw/master/AutoScrollLoopViewPager.jar):
 
 1. Trinea/[AutoScrollViewPager](https://github.com/Trinea/android-auto-scroll-view-pager)
 
@@ -17,7 +17,7 @@ An android ViewPager extension allowing infinite scrolling.
 
 
 ## Usage
-- include the jar file and android-support-v4.jar, use
+- include [AutoScrollLoopViewPager.jar](https://github.com/neutra/AutoScrollLoopViewPager/raw/master/AutoScrollLoopViewPager.jar) and android-support-v4.jar, use
 
 ``` xml
 <io.github.neutra.android.autoscrollloopviewpager.AutoScrollLoopViewPager
