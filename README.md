@@ -4,11 +4,15 @@ Android Auto Scroll Loop View Pager
 Combine from follow libraray:
 
 1. Trinea/[AutoScrollViewPager](https://github.com/Trinea/android-auto-scroll-view-pager)
+
 - ViewPager which can auto scroll, cycle.
+
 - ViewPager which can be slided normal in parent ViewPager.
+
 ![android-auto-scroll-view-pager](http://farm3.staticflickr.com/2843/12805132475_e595664a81_o.gif)
 
 2. imbryk/[LoopingViewPager](https://github.com/imbryk/LoopingViewPager)
+
 An android ViewPager extension allowing infinite scrolling.
 
 
